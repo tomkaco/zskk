@@ -1,0 +1,12 @@
+body {
+    background-color: darkorchid;
+}
+h1 {
+    color: crimson;
+}
+p {
+    text-decoration: line-through;
+    font-size: 136px;
+    text-decoration-color: rgba(221, 127, 34, 0.42);
+    color: crimson;
+}
